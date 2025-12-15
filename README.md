@@ -5,7 +5,7 @@
 - Features a decoupled architecture of Web -> Backend -> ROS -> Robot
 - Supports multi-robot expansion and secure handling of disconnections
 
-## Tack stack
+## Tech stack
 
 - Frontend: React + Tailwind CSS + Shadcn + websocket
 - Backend: Node.js + websocket
