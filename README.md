@@ -1,6 +1,6 @@
 # Robot fleet control dashboard
 
-- A robot remote control platform based on WebSocket and ROS
+- A robot control web app based on React, Node.js, WebSocket and ROS
 - Enables real-time control of robot movement and status feedback via a web browser
 - Features a decoupled architecture of Web -> Backend -> ROS -> Robot
 - Supports multi-robot expansion and secure handling of disconnections
